@@ -9,6 +9,7 @@
     "export": "next export",
     "deploy": "npm run build && rm -rf /path/to/cache && npm run export"
   },
+  "cacheDirectories": [".next/cache"],
   "dependencies": {
     "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
