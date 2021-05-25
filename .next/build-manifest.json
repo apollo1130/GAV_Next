@@ -28,6 +28,11 @@
       "static/chunks/main.js",
       "static/chunks/webpack.js",
       "static/chunks/pages/_error.js"
+    ],
+    "/perfil-fornecedor/[locador_id]": [
+      "static/chunks/main.js",
+      "static/chunks/webpack.js",
+      "static/chunks/pages/perfil-fornecedor/[locador_id].js"
     ]
   },
   "ampFirstPages": []

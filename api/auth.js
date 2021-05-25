@@ -52,7 +52,7 @@ export const loginService = async (service, token) => {
     };
 
     const { data } = await httpRequest.post(
-      `${window.location.origin}/api/auth/social/${service}`,
+      `${config.baseUrl}/api/auth/social/${service}`,
       false,
       null,
       body
