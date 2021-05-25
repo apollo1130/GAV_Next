@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/api/getSession": "pages/api/getSession.js",
+  "/escolha-registro": "pages/escolha-registro.html",
+  "/": "pages/index.html",
+  "/listar-carros-disponiveis-fornecedor": "pages/listar-carros-disponiveis-fornecedor.html",
+  "/listar-carros-disponiveis": "pages/listar-carros-disponiveis.html",
+  "/login": "pages/login.html",
+  "/meus-veiculos": "pages/meus-veiculos.html",
+  "/perfil-fornecedor/[locador_id]": "pages/perfil-fornecedor/[locador_id].html",
+  "/perfil-motorista/[locador_id]": "pages/perfil-motorista/[locador_id].html",
+  "/pesquisar-veiculos-registrados": "pages/pesquisar-veiculos-registrados.html",
+  "/registrar-fornecedor-form": "pages/registrar-fornecedor-form.html",
+  "/registrar-motorista-form": "pages/registrar-motorista-form.html",
+  "/registrar": "pages/registrar.html",
+  "/ui": "pages/ui.html",
+  "/ver-meu-anuncio": "pages/ver-meu-anuncio.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}

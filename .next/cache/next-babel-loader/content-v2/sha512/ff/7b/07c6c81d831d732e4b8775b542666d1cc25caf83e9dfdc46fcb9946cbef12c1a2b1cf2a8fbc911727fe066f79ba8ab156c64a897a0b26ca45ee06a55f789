@@ -1,0 +1,1 @@
+{"ast":null,"code":"var serialize = function serialize(url, obj) {\n  var str = [];\n\n  for (var p in obj) {\n    if (obj.hasOwnProperty(p)) {\n      str.push(encodeURIComponent(p) + \"=\" + encodeURIComponent(obj[p]));\n    }\n  }\n\n  return url + str.join(\"&\");\n};\n\nexport default serialize;","map":null,"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport { UiButton } from \"../../components/UI/Button\";\n\nvar PublicUI = function PublicUI() {\n  return /*#__PURE__*/_jsx(UiButton, {});\n};\n\nexport default PublicUI;","map":null,"metadata":{},"sourceType":"module"}

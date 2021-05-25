@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\n\nvar Devider = function Devider(_ref) {\n  var className = _ref.className;\n  return /*#__PURE__*/_jsx(\"div\", {\n    className: \"section-divider \".concat(className)\n  });\n};\n\nexport default Devider;","map":null,"metadata":{},"sourceType":"module"}
